@@ -11,10 +11,20 @@ body{
   border: #696969 1px solid;
   background-color: #000000;
 }
+.photo{
+  float:left;
+  margin-riht: 30px;
+}
+.gohan_picture:after{
+  content: "";
+  clear: both;
+  display:block;
+}
 .steps{
   float left;
 }
 dt{
+  clear: left;
   float: left;
   font-weight: bold;
 }

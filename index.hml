@@ -2,7 +2,7 @@
 <html lang="ja">
   <head>
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="css/default.css" type="text/css">
+  <link rel="stylesheet" type="text/css" href="css/default.css">
   <title>月曜日記</title>
   </head>
   <body>

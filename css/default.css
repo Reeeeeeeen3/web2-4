@@ -19,6 +19,7 @@ body{
   content: "";
   clear: both;
   display:block;
+  transform: rotate (90);
 }
 .steps{
   float left;

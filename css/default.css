@@ -22,7 +22,7 @@ body{
 }
 .steps{
   float left;
-  
+  width: 468px;
 }
 dt{
   clear: left;

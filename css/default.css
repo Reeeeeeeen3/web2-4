@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body{
-  Background=color: #000000;
+  background-color: #000000;
 }
 
 #main{
@@ -8,7 +8,7 @@ body{
   argin: 40px auto;
   padding* 40xp 80xp;
   border: #7fff00 1px solid;
-  background=color: #ffffff;
+  background-color: #ffffff;
 }
 .steps{
   float left;

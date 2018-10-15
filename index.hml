@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="ja">
   <head>
-  <meta charset="urf-8">
+  <meta charset="UTF-8">
   <link rel="stylesheet" href="css/default.css" type="text/css">
   <title>月曜日記</title>
   </head>
   <body>
     <article id="main">
-    <p>月曜の朝が始まりました。</p>
+    <p>今日も月曜の朝が始まりました。</p>
     </article>
   </body>
 </html>

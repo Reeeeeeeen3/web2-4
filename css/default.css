@@ -5,8 +5,8 @@ body{
 
 #main{
   width: 960px;
-  argin: 40px auto;
-  padding* 40xp 80xp;
+  margin: 40px auto;
+  padding: 40xp 80xp;
   border: #7fff00 1px solid;
   background-color: #ffffff;
 }

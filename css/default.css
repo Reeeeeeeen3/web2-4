@@ -1,14 +1,15 @@
 @charset "UTF-8";
 body{
-  background-color: #808080;
+  background-color: #ffffff;
+  color: white;
 }
 
 #main{
   width: 960px;
   margin: 40px auto;
   padding: 40px 80px;
-  border: #000000 1px solid;
-  background-color: #ffffff;
+  border: #696969 1px solid;
+  background-color: #000000;
 }
 .steps{
   float left;

@@ -31,4 +31,26 @@ dt{
   transform: rotate (90deg);
 }
 .btn{
+  -webkit-appearance: none;
+  -webkit-border-radius: 1;
+  margin: 5px;
+  width: 100px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+}
+.btn:hover {
+  opacity: 0.7;
+}
+.btn;active{
+  color: #ffff00;
+}
+/btn-submit {
+  background-color: silver;
+}
+.btn-reset{
+  background-color: #00bfff;
+}
+
   

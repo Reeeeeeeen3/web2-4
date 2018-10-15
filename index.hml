@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+  <meta charset="urf-8">
+    <title>今日のご飯</title>
+    <link rel="stylesheet" href="css/default.css" type="text/css">
+  </head>
+  <body>
+    <h1 id="koko"> ご飯はおいしくなくては！</h1>
+    <p>
+    <h4 id="koko">毎日食べるご飯！どうしても同じメニューを何周もして飽きが来てしまうのはみんなも同じはず
+    <br>そこでちょっとでも助けにとメニューをシェアしようと思いました。</h4>
+    </p>
+    </div>
+    <p><h2>今回はハンバーガー！</h2></p>
+<p><h3><ruby>材料</ruby></h3></p>
+    <ul>
+      <li>合いびき肉</li>
+      <li>トマト</li>
+      <li>レタス</li>
+      <li>スライスチーズ</li>
+      <li>塩</li>
+      <li>胡椒</li>
+      <li>玉ねぎ</li>
+      <li>マヨネーズ</li>
+      <li>マスタード</li>
+    </ul>
+<p><h3><ruby>作り方</ruby></h3></p>
+  <ol>
+      <li>合いびき肉に塩、胡椒、を入れてハンバーグ状の形にする</li>
+    <li>野菜をはさみたい形に<mark>さばいていく！</mark></li>
+      <li>パンをオーブンに入れる</li>
+      <li>ハンバーグと玉ねぎに塩、胡椒、オイルをばらまき焼いていく</li>
+      <li>ハンバーグを裏返してからスライスチーズをのせる</li>
+      <li>マヨネーズとマスタードを混ぜてソースを作る</li>
+      <li>焼けたパンにソースを塗って、その上にレタス、トマト、ソース、ハンバーグ、玉ねぎ、ソース、パンの順に乗せる</li>
+      <li><strong>完成！</strong></li>
+  </ol>
+<p><h3><ruby>感想</ruby></h3></p>
+<p><h4>今回筆者が作った初のバーガーは肉汁たっぷりにできて大満足でした。
+<br>近くのパン屋さんにいい感じのパンがなくてプレーンベーグルで作りましたがこれが案外おいしかったんです。
+<br>簡単だしまた作ろうかなと思った一品でした。ちなみにもう片方はマヨネーズの代わりにケチャップを使っています。
+</h4>
+</p>
+<img src="https://raw.githubusercontent.com/Reeeeeeeen3/web2-2/master/DSC_0429.jpg" alt="いただきます！"width="400" height="600"/>
 
+<p><h4><ruby>筆者紹介</ruby></h4></p>
+<p><h5>
+名前:Ren<br>東京工芸大生<br><a href="https://www.t-kougei.ac.jp/">大学の公式ページ</a>はこちら
+</h5></p>
+</body>
+</html>

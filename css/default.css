@@ -13,3 +13,7 @@ body{
 .steps{
   float left;
 }
+dt{
+  float: left;
+  font-weight: bold;
+}
